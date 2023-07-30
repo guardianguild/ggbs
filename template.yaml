@@ -2,8 +2,8 @@ apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
   name: springboot-template
-  title: V01 Spring Boot gRPC Service
-  description: V01 Create a simple microservice using gRPC and Spring Boot Java
+  title: Spring Boot gRPC Service V01 
+  description: Create a simple microservice using gRPC and Spring Boot Java V01 
   tags:
     - recommended
     - java
@@ -13,7 +13,7 @@ spec:
   type: service
 
   parameters:
-    - title: V01 Provide some simple information
+    - title: Provide some simple information V01 
       required:
         - component_id
         - owner
