@@ -1,13 +1,11 @@
-apiVersion: scaffolder.backstage.io/v1beta3
-kind: Template
-# some metadata about the template itself
+apiVersion: backstage.io/v1alpha1
+kind: Component
 metadata:
-  name: v1beta3-demo
-  title: Test Action template
-  description: scaffolder v1beta3 template demo
+  name: "test"
 spec:
-  owner: backstage/techdocs-core
   type: service
+  owner: user:guest
+  lifecycle: experimental
 parameters:
   - title: Template v01 Provide some simple information
     required:
