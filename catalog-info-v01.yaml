@@ -40,7 +40,6 @@ parameters:
         ui:options:
           allowedHosts:
             - github.com
-            - gitlab.com
 steps:
   - id: template
     name: Fetch Skeleton + Template
