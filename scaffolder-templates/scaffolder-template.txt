@@ -1,0 +1,9 @@
+https://github.com/guardianguild/ggbs/tree/master/scaffolder-templates/clean-architecture-app/template.yaml
+https://github.com/guardianguild/ggbs/blob/master/scaffolder-templates/create-react-app/template.yaml
+https://github.com/guardianguild/ggbs/blob/master/scaffolder-templates/docs-template-cookiecutter/template.yaml
+https://github.com/guardianguild/ggbs/blob/master/scaffolder-templates/docs-template/template.yaml
+https://github.com/guardianguild/ggbs/blob/master/scaffolder-templates/gitlab-merge-request/template.yaml
+https://github.com/guardianguild/ggbs/blob/master/scaffolder-templates/pull-request/template.yaml
+https://github.com/guardianguild/ggbs/blob/master/scaffolder-templates/rails-demo/template.yaml
+https://github.com/guardianguild/ggbs/blob/master/scaffolder-templates/react-ssr-template/template.yaml
+https://github.com/guardianguild/ggbs/blob/master/scaffolder-templates/springboot-grpc-template/template.yaml
