@@ -4,5 +4,5 @@ metadata:
   name: my-my-plugin-component
 spec:
   lifecycle: production
-  owner: guest
+  owner: user:guest
   type: service
