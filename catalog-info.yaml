@@ -4,5 +4,5 @@ metadata:
   name: my-my-plugin-component
 spec:
   lifecycle: production
-  owner: my-team
+  owner: backstage
   type: service
