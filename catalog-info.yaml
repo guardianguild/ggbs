@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "test"
+  name: my-my-plugin-component
 spec:
+  lifecycle: production
+  owner: my-team
   type: service
-  owner: user:guest
-  lifecycle: experimental
